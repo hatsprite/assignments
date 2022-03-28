@@ -28,8 +28,10 @@ body{
 .container
 {
 	background-color: white;
+	color: black;
 	text-align: left;
 }
+
 .text-center{
 	font-size: 30px;
 }
@@ -73,10 +75,10 @@ margin-top: 5px;
 	margin-bottom: 10px;
 }
 
-.navbar-right a:hover {
-  background-color: yellow;
-}
-
 #menulist a:hover {
 	background-color: yellow;
+}
+
+#title {
+	background-color: #06aed5;
 }
