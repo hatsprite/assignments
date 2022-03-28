@@ -1,0 +1,79 @@
+	*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	
+}
+.navbar{
+border-radius: 0;
+border: 3px solid #49111c;
+background-color: #06aed5;
+color: white;
+}
+body{
+	background-color: white;
+	color: black;
+	position: relative;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#f2f4f3; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: white;
+	text-align: left;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #61122F;
+}
+.navbar-brand{
+font-size: 50px;	
+color: red;
+margin-top: 5px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: black;
+}
+
+
+.menu-title {
+	margin-bottom: 10px;
+}
+
+#chicken {
+	background-color: #06aed5;
+	border: 3px solid black;
+}
+
+#beef {
+	background-color: #06aed5;
+	border: 3px solid black;
+}
+
+#sushi {
+	background-color: #06aed5;
+	border: 3px solid black;
+}
+
+.navbar-right a:hover {
+  background-color: yellow;
+}
+
+#menulist a:hover {
+	background-color: yellow;
+}
