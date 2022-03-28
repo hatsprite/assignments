@@ -58,16 +58,19 @@ margin-top: 5px;
 #chicken {
 	background-color: #06aed5;
 	border: 3px solid black;
+	margin-bottom: 10px;
 }
 
 #beef {
 	background-color: #06aed5;
 	border: 3px solid black;
+	margin-bottom: 10px;
 }
 
 #sushi {
 	background-color: #06aed5;
 	border: 3px solid black;
+	margin-bottom: 10px;
 }
 
 .navbar-right a:hover {
